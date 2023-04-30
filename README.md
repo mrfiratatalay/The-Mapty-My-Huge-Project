@@ -1,0 +1,3 @@
+# The Mapty My Huge Project:
+
+The Mapty Project has been the coolest and most real-world project I've ever done. I applied everything I've learned so far in this project, such as advanced things like functions, arrays, and object-oriented programming, how to use geolocation, and how to use third-party libraries in our project. But more importantly, I also learned how to really plan a project because building a project is not just about writing code, it's also about thinking, making decisions, and solving problems. And that was an important thing that I really wanted to learn, I've now learned how to develop real world applications on my own.
